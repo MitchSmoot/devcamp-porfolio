@@ -1,5 +1,5 @@
 module SetSource
-  extend Activesupport::Concern
+  extend ActiveSupport::Concern
 
   included do
     before_filter :set_source   
