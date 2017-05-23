@@ -15,4 +15,7 @@ module ApplicationHelper
       content_tag(:P, greeting, class: "source-greeting")
     end
   end  
+  def copyright_generator
+    SmooticusViewTool::Renderer.copyright 'Mitch Smoot', 'All Rights Reserved'
+  end
 end

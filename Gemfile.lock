@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/MitchSmoot/smooticus_view_tool
+  revision: 97eb9850b75bd0d80bfd03090b32a903836b22d9
+  specs:
+    smooticus_view_tool (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -196,6 +202,7 @@ DEPENDENCIES
   puma (~> 3.0)
   rails (~> 5.0.1)
   sass-rails (~> 5.0)
+  smooticus_view_tool!
   spring
   spring-watcher-listen (~> 2.0.0)
   turbolinks (~> 5)
