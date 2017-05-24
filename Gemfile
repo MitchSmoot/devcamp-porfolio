@@ -56,4 +56,5 @@ gem 'friendly_id', '~> 5.1.0'
 gem 'devise', '~> 4.2'
 gem 'bootstrap', '~> 4.0.0.alpha6'
 gem 'smooticus_view_tool', '~> 0.1.0'
+gem 'petergate', '~> 1.7', '>= 1.7.5'
 # Remember, use "bundle install" to install gems once placed in gemfile, then restart rails server.
