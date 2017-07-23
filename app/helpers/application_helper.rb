@@ -31,7 +31,7 @@ module ApplicationHelper
       },
       {
         url: contact_path,
-        title: 'Contace'
+        title: 'Contact'
       },
       {
         url: blogs_path,
