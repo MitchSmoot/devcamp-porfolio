@@ -65,4 +65,5 @@ gem 'carrierwave', '~> 1.1'
 gem 'mini_magick', '~> 4.8'
 gem 'carrierwave-aws', '~> 1.2'
 gem 'dotenv-rails', '~> 2.2', '>= 2.2.1'
+gem 'cocoon', '~> 1.2', '>= 1.2.10'
 # Remember, use "bundle install" to install gems once placed in gemfile, then restart rails server.
