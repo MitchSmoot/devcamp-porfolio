@@ -208,9 +208,18 @@ body {
   color: white;
 }
 
+.tech-news {
+  color: #555;
+  margin: 20px;
+}
 
+.tech-news a {
+  color: lime;
+}
 
-
+.tech-news > .card {
+  padding: 20px;
+}
 
 
 
