@@ -69,4 +69,6 @@ gem 'cocoon', '~> 1.2', '>= 1.2.10'
 gem 'gritter', '~> 1.2'
 gem 'twitter', '~> 6.1'
 gem 'redis', '~> 4.0', '>= 4.0.1'
+gem 'redcarpet', '~> 3.4'
+gem 'coderay', '~> 1.1', '>= 1.1.1'
 # Remember, use "bundle install" to install gems once placed in gemfile, then restart rails server.
