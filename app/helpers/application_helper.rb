@@ -44,7 +44,7 @@ module ApplicationHelper
       },
       {
         url: tech_news_path,
-        title: 'Demonstrations'
+        title: 'More stuff'
       }
     ]
   end
